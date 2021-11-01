@@ -1,5 +1,5 @@
 
- - 👋 Hi, I’m Mostafa Emad, I'm graduate fromFaculty of specific Education-Education Technology  Department.
+ - 👋 Hi, I’m Mostafa Emad, I'm graduate fromFaculty of specific Education-Education Technology Department.
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
